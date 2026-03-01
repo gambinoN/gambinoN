@@ -1,14 +1,18 @@
 Hi, I’m Nedim, a software engineer and startup builder based in Sarajevo.
 
-I work full-time as a Shopify and a Full-stack developer, building and maintaining high-performance e-commerce experiences for clients generating over $1M+ in monthly revenue. I also excel at building scalable software automation solutions for companies. My focus is clean architecture, performance, scalability, and pixel-perfect execution from Figma to production.
+I work full-time as a Shopify and a Full-stack developer, having experiece with building and maintaining high-performance e-commerce for clients generating over $1M+ in monthly revenue. I also excel at building scalable software automation solutions for companies. My focus is clean architecture, performance, scalability, and pixel-perfect execution from Figma to production.
 
 
 Over the years, I’ve worked across:
 
 • React / Next.js / TypeScript
+
 • Shopify (Liquid, custom themes, app integrations)
+
 • Node.js/Laravel
+
 • Production deployments via Docker & CI/CD
+
 • Analytics implementation & performance tracking
 
 

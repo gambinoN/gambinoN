@@ -1,26 +1,31 @@
-### 👋 Hello, I'm Nedim Gabela!
+Hi, I’m Nedim, a software engineer and startup builder based in Sarajevo.
 
-### About Me <br/>
-I am a passionate web developer currently immersed in the world of front-end technologies. My toolkit includes React.js for building dynamic user interfaces, Tailwind CSS for efficient styling, and the classic trio of HTML, CSS, and JavaScript.
+I work full-time as a Shopify and a Full-stack developer, building and maintaining high-performance e-commerce experiences for clients generating over $1M+ in monthly revenue. I also excel at building scalable software automation solutions for companies. My focus is clean architecture, performance, scalability, and pixel-perfect execution from Figma to production.
 
-### 🚀 What I'm Up To
+Over the years, I’ve worked across:
 
-💻 Working on exciting React projects that push the boundaries of user experience. <br/>
-🎨 Crafting beautiful and responsive UIs using Tailwind CSS. <br/>
-🌐 Exploring the latest trends in web development to stay on the cutting edge. <br/>
-🔧 Tinkering with PHP for server-side magic and dynamic web applications. <br/>
+• React / Next.js / TypeScript
+• Shopify (Liquid, custom themes, app integrations)
+• Node.js/Laravel
+• Production deployments via Docker & CI/CD
+• Analytics implementation & performance tracking
 
+Beyond client work, I’m also building my own eSIM startup (MySim2Go), where I combine product, marketing, and technical execution. From backend systems and integrations to frontend UX and growth experiments, I enjoy owning the full lifecycle of a product.
 
+I care about:
 
+• Writing maintainable, scalable code
 
+• Solving real business problems (not just shipping features)
 
-### 📫 Get In Touch <br/>
-GitHub: gambinoN <br/>
-LinkedIn: https://www.linkedin.com/in/nedim-gabela-18bab2255/ <br/>
-Instagram: nedim_gabela <br/>
+• Performance optimization
 
+• Clean UI/UX execution
 
-### 🌟 Fun Fact <br/>
-I believe that the best code is not just functional but also a work of art. When not coding, you can find me doing brasilian jiu jitsu or hiking in the great outdoors. <br/>
+• Continuous learning in architecture & system design 
 
-Let's build something amazing together! 🚀
+Currently growing toward a more senior engineering role while deepening my backend and system design knowledge.
+
+If you’re building something ambitious we should connect.
+
+GitHub: https://github.com/gambinoN
